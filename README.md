@@ -1,10 +1,10 @@
 # AAE5303 Robust Control Technology in Low-Altitude Aerial Vehicle
 ## Post-Lesson Reflection Report
 
-**Student Name:** [Your Name]  
-**Student ID:** [Your Student ID]  
-**Group Number:** [Your Group Number]  
-**Date:** [Submission Date]
+**Student Name:** [NIE Jiazheng]  
+**Student ID:** [25100453g]  
+**Group Name:** [DEEPTHINKER]  
+**Date:** [April 25, 2026]
 
 ### Section 1: AI Usage Experience
 
